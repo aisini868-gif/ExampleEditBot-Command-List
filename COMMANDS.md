@@ -3,7 +3,7 @@ Commands
 
 These are commands that the ???EditBot supports.
 
-A command is declared as `filtername=value`. For example, to add 100 bass boost, use `swapuv`.
+A command is declared as `filtername=value`. For example, to add SwapUV, use `swapuv`.
 
 To chain multiple commands, use a comma `, ` to separate them. For example, swap uv + kinemaster would be `swapuv,kinemaster`.
 

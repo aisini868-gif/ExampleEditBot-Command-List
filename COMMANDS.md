@@ -39,6 +39,9 @@ To use the bot on Discord, prefix your command with "(yourprefix)". An empty com
 | `playreverse`   | `prev`      | Number | 1    | 2            | 1 = plays, then reverses. 2 = reverses, then plays the video                                        |
 | `hmirror`       | `hm`        | Number | 1    | 2            | Mirrors horizontal, 1 is the left half, 2 is the right half                                         |
 | `vmirror`       | `vm`        | Number | 1    | 2            | Mirrors vertically, 1 is the top half, 2 is the bottom half                                         |
+| `invertred`     | `invr`      | -      | -    | -            | Inverts video color                                                                                 |
+| `invertgreen`   | `invg`      | -      | -    | -            | Inverts video color                                                                                 |
+| `invertblue`    | `invb`      | -      | -    | -            | Inverts video color                                                                                 |
 | `invert`        | `inv`       | -      | -    | -            | Inverts video color                                                                                 |
 | `wscale`        | `ws`        | Number | -500 | 500          | Sets the horizontal resolution.                                                                     |
 | `hscale`        | `hs`        | Number | 0    | 100          | Horizontal scale, sets the vertical resolution                                                      |
